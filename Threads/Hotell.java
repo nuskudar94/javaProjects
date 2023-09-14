@@ -1,3 +1,4 @@
+package Threads;
 class Hotell implements Iterable<Rom>{
 	int antEtasjer;
 	Rom [] forsteRomEtasje;

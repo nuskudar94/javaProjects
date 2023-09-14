@@ -1,3 +1,0 @@
-class Generiske <E>{
-	
-}

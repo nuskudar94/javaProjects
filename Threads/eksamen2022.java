@@ -1,3 +1,4 @@
+package Threads;
 public abstract class Bil{
 	protected final String bilNummer;
 	protected final int prisPerDag;

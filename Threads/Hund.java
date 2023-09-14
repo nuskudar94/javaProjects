@@ -1,3 +1,4 @@
+package Threads;
 class Hund implements Comparable<Hund> {
 String navn;
 Kull mittKull;

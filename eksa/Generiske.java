@@ -1,0 +1,3 @@
+class Generiske <E>{
+	
+}
